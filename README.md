@@ -1,5 +1,8 @@
 # GIFsplitNjoin
 
+Yes I know the name sucks 😭
+I mainly just used this to upscale a gif
+
 GIFsplitNjoin is a simple Python-based tool using `tkinter` that allows you to extract frames from a GIF and combine multiple images to create a new GIF. The tool provides a user-friendly interface for both operations.
 
 ## Features
